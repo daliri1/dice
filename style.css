@@ -1,0 +1,47 @@
+body{
+    color:aquamarine;
+    font-weight: bolder;
+    font-size: 20px;
+    background-image: url(FB_IMG_16022961655799316.jpg);
+    background-position: justify;
+    padding-bottom: 5%;
+    background-size: cover;
+    text-align: center;
+    font-family: Century Gothic;
+    background-repeat: no-repeat;
+}
+
+header{
+    background-color: aqua;
+    text-shadow: -2px 10px 5px black;
+}
+
+p{
+    font-size: 20px;
+    font-weight: bolder;
+    color: deepskyblue;
+    padding-bottom: 20px;
+    
+
+}
+h1{
+   
+    font-size: 40px;
+    color:chocolate;
+    font-weight: bold;
+    padding-bottom: 20px;
+}
+h2{
+     font-size: 30px;
+    font-weight: bold;
+	text-shadow: -2px 10px 5px black;
+    color: greenyellow;
+    padding: 20px 0px 20px 0px;
+}
+
+
+ul li{
+	font-family: Century Gothic;
+    color: cyan;
+    font-size: 20px;
+}
