@@ -17,6 +17,7 @@
 .navbar{
     height: 80px;
     weight: 100%;
+    backdrop-filter: blur(40px);
     background: royalblue;
     
     
