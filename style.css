@@ -40,20 +40,13 @@ nav a{
 }
 
 .title{
-    padding-top:10%;
-    border-radius: 3em;
-    position:relative;
-    z-index: 1;
-    backdrop-filter: blur(40px);
-    
-    
-
+    padding-top: 10%;
     font-size: 45px;
     font-family: "noir";
     text-transform: uppercase;
     color: blueviolet; 
     text-align: center;
     font-family: 'Abril Fatface', cursive;
-    background: green; 
+    
     
 }
