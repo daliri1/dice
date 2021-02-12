@@ -18,11 +18,10 @@
     height: 80px;
     weight: 100%;
     backdrop-filter: blur(40px);
-    background: royalblue;
-    padding: 3em;
-    border-radius: 3em;
+    background-color: #ffffff30;
+   
     position:relative;
-    z-index: 1;
+
     
     
 }
