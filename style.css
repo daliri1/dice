@@ -40,6 +40,11 @@ nav a{
 }
 
 .title h1{
+    padding: 3em;
+    border-radius: 3em;
+    position:relative;
+    z-index: 1;
+    backdrop-filter: blur(40px);
     
     
 
@@ -49,5 +54,6 @@ nav a{
     color: blueviolet; 
     text-align: center;
     font-family: 'Abril Fatface', cursive;
+    background: green; 
     
 }
