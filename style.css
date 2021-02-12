@@ -39,10 +39,10 @@ nav a{
     padding-top: 30px;
 }
 
-.title h1{
+.title{
     
     padding-top: 10%;
-      padding: 0em;
+    padding: 0em;
     border-radius: 0em;
     position:relative;
     z-index: -10;
