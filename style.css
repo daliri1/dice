@@ -40,13 +40,9 @@ nav a{
 }
 
 .title{
-   
+    
     padding-top: 10%;
-    padding: 3em;
-    border-radius: 3em;
-    position:relative;
-    z-index: 1;
-    backdrop-filter: blur(40px);
+
     font-size: 45px;
     font-family: "noir";
     text-transform: uppercase;
