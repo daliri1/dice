@@ -17,8 +17,8 @@
 .navbar{
     height: 80px;
     weight: 100%;
-    backdrop-filter: blur(40px);
-    background-color: darkgreen;
+    backdrop-filter: blur(20px);
+    background-color: #ffd369;
    
     position:relative;
 
